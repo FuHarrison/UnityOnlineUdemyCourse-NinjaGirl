@@ -5,3 +5,6 @@
 
 ## 課程連結
 https://www.udemy.com/course/unity-2d-develop/
+
+## 遊戲畫面
+![image](https://github.com/FuHarrison/UnityOnlineUdemyCourse-NinjaGirl/assets/92322412/9e2d4bcc-20c7-4d75-9750-ba6f0136d452)
